@@ -14,9 +14,12 @@ const [hoverValue, setHoverValue]= useState(0);
         onMouseLeave={()=>setHoverValue(0)
         }
         
-        >&#9733;</span>
+        >&#9733; </span>
     ))
 }
 
+
+
+<h1>Rating:({starValue})</h1>
     </div>
 }
