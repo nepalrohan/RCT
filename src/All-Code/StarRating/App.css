@@ -1,0 +1,16 @@
+.container{
+
+    height: 100vh;
+    width:screen;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+
+
+
+
+.gold {
+
+    color:gold;
+}
